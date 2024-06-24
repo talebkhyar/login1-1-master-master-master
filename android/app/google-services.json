@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "474612730257",
+    "project_id": "inscription-app-34d5e",
+    "storage_bucket": "inscription-app-34d5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474612730257:android:9130e49ceb532a53d07230",
+        "android_client_info": {
+          "package_name": "com.example.login1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB2IrrZcvA9lYCuzTLiehQCk4usspCe0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,1 @@
+import 'package:project_fine_tude/pages/home.dart';
